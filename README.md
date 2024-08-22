@@ -10,4 +10,4 @@ Former civil servant turned tech enthusiast with a passion for graphic design an
 *   ✉️  You can contact me at [dajannana@gmail.com](mailto:dajannana@gmail.com)
 *   🚀  I'm currently working on [Transforming , Analysing and Visualising Data](http://https://sites.google.com/view/ akua-dajan)
 *   🧠  I'm learning RStudio
-*   🤝  I'm open to collaborating on All Projects### Skills 
+*   🤝  I'm open to collaborating on All Projects
